@@ -1,0 +1,39 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="512dp"
+    android:height="512dp"
+    android:viewportWidth="64"
+    android:viewportHeight="64">
+  <path
+      android:pathData="M27,2L37,2A8,8 0,0 1,45 10L45,30A8,8 0,0 1,37 38L27,38A8,8 0,0 1,19 30L19,10A8,8 0,0 1,27 2z"
+      android:fillColor="#57565c"/>
+  <path
+      android:pathData="m19,18h10v4h-10z"
+      android:fillColor="#acabb1"/>
+  <path
+      android:pathData="m19,10h10v4h-10z"
+      android:fillColor="#acabb1"/>
+  <path
+      android:pathData="m19,26h10v4h-10z"
+      android:fillColor="#acabb1"/>
+  <path
+      android:pathData="m35,18h10v4h-10z"
+      android:fillColor="#acabb1"/>
+  <path
+      android:pathData="m35,10h10v4h-10z"
+      android:fillColor="#acabb1"/>
+  <path
+      android:pathData="m35,26h10v4h-10z"
+      android:fillColor="#acabb1"/>
+  <path
+      android:pathData="m30,43h4v13h-4z"
+      android:fillColor="#57565c"/>
+  <path
+      android:pathData="m28,56h8v3h-8z"
+      android:fillColor="#e0e0e2"/>
+  <path
+      android:pathData="m48,62h-32l1,-3h30z"
+      android:fillColor="#57565c"/>
+  <path
+      android:fillColor="#FF000000"
+      android:pathData="m37,44a14.015,14.015 0,0 0,14 -14v-13.859a1,1 0,0 0,-2 0v2.859h-3v-9a9.011,9.011 0,0 0,-9 -9h-10a9.011,9.011 0,0 0,-9 9v9h-3v-3.754a1,1 0,0 0,-2 0v14.754a14.015,14.015 0,0 0,14 14h2v11h-1a1,1 0,0 0,-1 1v2h-10a1,1 0,0 0,-0.949 0.684l-1,3a1,1 0,0 0,0.949 1.316h32a1,1 0,0 0,0.949 -1.316l-1,-3a1,1 0,0 0,-0.949 -0.684h-10v-2a1,1 0,0 0,-1 -1h-1v-11zM36,29v-2h8v2zM44,21h-8v-2h8zM44,13h-8v-2h8zM27,3v3a1,1 0,0 0,2 0v-3h2v3a1,1 0,0 0,2 0v-3h2v3a1,1 0,0 0,2 0v-3a7,7 0,0 1,6.92 6h-8.92a1,1 0,0 0,-1 1v4a1,1 0,0 0,1 1h9v2h-9a1,1 0,0 0,-1 1v4a1,1 0,0 0,1 1h9v2h-9a1,1 0,0 0,-1 1v4a1,1 0,0 0,1 1h8.92a7,7 0,0 1,-6.92 6v-3a1,1 0,0 0,-2 0v3h-2v-3a1,1 0,0 0,-2 0v3h-2v-3a1,1 0,0 0,-2 0v3a7,7 0,0 1,-6.92 -6h8.92a1,1 0,0 0,1 -1v-4a1,1 0,0 0,-1 -1h-9v-2h9a1,1 0,0 0,1 -1v-4a1,1 0,0 0,-1 -1h-9v-2h9a1,1 0,0 0,1 -1v-4a1,1 0,0 0,-1 -1h-8.92a7,7 0,0 1,6.92 -6zM20,19h8v2h-8zM20,27h8v2h-8zM20,11h8v2h-8zM15,30v-9h3v9a9.011,9.011 0,0 0,9 9h10a9.011,9.011 0,0 0,9 -9v-9h3v9a12.013,12.013 0,0 1,-12 12h-10a12.013,12.013 0,0 1,-12 -12zM46.613,61h-29.226l0.334,-1h28.558zM29,58v-1h6v1zM33,55h-2v-11h2z"/>
+</vector>
